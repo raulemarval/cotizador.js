@@ -37,7 +37,7 @@ body {
     border: none;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    width: 100%;
+    width: 7%;
     max-width: 15%;
   }
   
@@ -121,60 +121,60 @@ body {
   }
   
   .slide1 {
-    background-image: url('/sources/images/Placa1.jpeg');
+    background-image: url('https://github.com/raulemarval/cotizador.js/blob/main/sources/images/Placa1.jpeg?raw=true');
     animation: slide 50s infinite;
   }
   
   .slide2 {
-    background-image: url('/sources/images/placa2.jpg');
+    background-image: url('https://github.com/raulemarval/cotizador.js/blob/main/sources/images/placa2.jpg?raw=true');
     animation: slide 50s infinite;
     animation-delay: 5s;
   }
   
   .slide3 {
-    background-image: url('/sources/images/placa3.png');
+    background-image: url('https://github.com/raulemarval/cotizador.js/blob/main/sources/images/placa3.png?raw=true');
     animation: slide 50s infinite;
     animation-delay: 10s;
   }
   
   .slide4 {
-    background-image: url('/sources/images/placa4.jpg');
+    background-image: url('https://github.com/raulemarval/cotizador.js/blob/main/sources/images/placa4.jpg?raw=true');
     animation: slide 50s infinite;
     animation-delay: 15s;
   }
   
   .slide5 {
-    background-image: url('/sources/images/placa5.jpg');
+    background-image: url('https://github.com/raulemarval/cotizador.js/blob/main/sources/images/placa5.jpg?raw=true');
     animation: slide 50s infinite;
     animation-delay: 20s;
 }
 
 .slide6 {
-    background-image: url('/sources/images/placa6.jpg');
+    background-image: url('https://github.com/raulemarval/cotizador.js/blob/main/sources/images/placa6.jpg?raw=true');
     animation: slide 50s infinite;
     animation-delay: 25s;
 }
 
 .slide7 {
-    background-image: url('/sources/images/placa7.jpg');
+    background-image: url('https://github.com/raulemarval/cotizador.js/blob/main/sources/images/placa7.jpg?raw=true');
     animation: slide 50s infinite;
     animation-delay: 30s;
 }
 
 .slide8 {
-    background-image: url('/sources/images/placa8.jpg');
+    background-image: url('https://github.com/raulemarval/cotizador.js/blob/main/sources/images/placa8.jpg?raw=true');
     animation: slide 50s infinite;
     animation-delay: 35s;
 }
 
 .slide9 {
-    background-image: url('/sources/images/placa9.jpg');
+    background-image: url('https://github.com/raulemarval/cotizador.js/blob/main/sources/images/placa9.jpg?raw=true');
     animation: slide 50s infinite;
     animation-delay: 40s;
 }
 
 .slide10 {
-    background-image: url('/sources/images/placa10.jpg');
+    background-image: url('https://github.com/raulemarval/cotizador.js/blob/main/sources/images/placa10.jpg?raw=true');
     animation: slide 50s infinite;
     animation-delay: 45s;
 }
