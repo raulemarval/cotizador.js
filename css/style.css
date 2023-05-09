@@ -146,54 +146,54 @@ header {
 }
 
 .slide1 {
-    background-image: url('/sources/images/Placa1.jpeg');
+    background-image: url('sources/images/Placa1.jpeg');
     animation: slide 50s infinite;
 }
 
 .slide2 {
-    background-image: url('/sources/images/placa2.jpg');
+    background-image: url('sources/images/placa2.jpg');
     animation: slide 50s infinite;
     animation-delay: 5s;
 }
 
 .slide3 {
-    background-image: url('/sources/images/placa3.png');
+    background-image: url('sources/images/placa3.png');
     animation: slide 50s infinite;
     animation-delay: 10s;
 }
 
 .slide4 {
-    background-image: url('/sources/images/placa4.jpg');
+    background-image: url('sources/images/placa4.jpg');
     animation: slide 50s infinite;
     animation-delay: 15s;
 }
 
 .slide5 {
-    background-image: url('/sources/images/placa5.jpg');
+    background-image: url('sources/images/placa5.jpg');
     animation: slide 50s infinite;
     animation-delay: 20s;
 }
 
 .slide6 {
-    background-image: url('/sources/images/placa6.jpg');
+    background-image: url('sources/images/placa6.jpg');
     animation: slide 50s infinite;
     animation-delay: 25s;
 }
 
 .slide7 {
-    background-image: url('/sources/images/placa7.jpg');
+    background-image: url('sources/images/placa7.jpg');
     animation: slide 50s infinite;
     animation-delay: 30s;
 }
 
 .slide8 {
-    background-image: url('/sources/images/placa8.jpg');
+    background-image: url('sources/images/placa8.jpg');
     animation: slide 50s infinite;
     animation-delay: 35s;
 }
 
 .slide9 {
-    background-image: url('/sources/images/placa9.jpg');
+    background-image: url('sources/images/placa9.jpg');
     animation: slide 50s infinite;
     animation-delay: 40s;
 }
